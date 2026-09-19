@@ -44,3 +44,4 @@ wheels/
 # OS metadata
 .DS_Store
 Thumbs.db
+test.py 

@@ -1,7 +1,7 @@
 # LangChain
 
 A comprehensive Python project for experimenting, building, and deploying LLM applications using **LangChain** with integrations for OpenAI, Groq, and Google Gemini models.
-
+date- 19-09-2026 time 01:04:13/11:13:25
 ---
 
 ## 📌 Project Overview
@@ -67,7 +67,6 @@ Create a `.env` file in the root directory (this file is git-ignored for securit
 
 ```env
 OPENAI_API_KEY=your_openai_api_key_here
-GROQ_API_KEY=your_groq_api_key_here
 GOOGLE_API_KEY=your_google_api_key_here
 ```
 
