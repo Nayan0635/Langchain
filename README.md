@@ -2,7 +2,7 @@
 
 A comprehensive Python project for experimenting, building, and deploying LLM applications using **LangChain** with integrations for OpenAI, Groq, and Google Gemini models.
 
-date- 08-10-2026 time 01:36:36/11:13:25
+date- 08-10-2026 time 01:48:39/11:13:25
 
 ---
 
