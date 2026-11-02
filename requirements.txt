@@ -7,3 +7,5 @@ langchain-groq
 python-dotenv
 
 
+langgraph
+langsmith
